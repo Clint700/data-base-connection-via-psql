@@ -9,11 +9,10 @@ client
     return client.query("SELECT * FROM bookshop");
   })
   .then((result) => {
-    console.log(result.rows); // Logs the query results
+    console.log(result.rows);
+    client.end();
   })
   .catch((err) => {
     console.log("connection error:", err);
   })
-  .finally(() => {
-    client.end(); // Close the connection after the query
-  });
+  
