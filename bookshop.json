@@ -1,0 +1,76 @@
+{
+    "Bookshop": [
+        {
+            "title": "Pride and Prejudice",
+            "price_in_pence": 699,
+            "quantity_in_stock": 4,
+            "release_date": "1813-01-28T00:01:15.000Z",
+            "is_fiction": true,
+            "author_id": null,
+            "book_id": 10
+        },
+        {
+            "title": "The War of the Worlds",
+            "price_in_pence": 225,
+            "quantity_in_stock": 17,
+            "release_date": "1897-04-01T00:00:00.000Z",
+            "is_fiction": true,
+            "author_id": null,
+            "book_id": 7
+        },
+        {
+            "title": "The Hitchhiker's Guide to the Galaxy",
+            "price_in_pence": 809,
+            "quantity_in_stock": 560,
+            "release_date": "1997-10-11T23:00:00.000Z",
+            "is_fiction": true,
+            "author_id": 3,
+            "book_id": 1
+        },
+        {
+            "title": "The Little Prince",
+            "price_in_pence": 629,
+            "quantity_in_stock": 1020,
+            "release_date": "1943-04-05T22:00:00.000Z",
+            "is_fiction": true,
+            "author_id": 2,
+            "book_id": 2
+        },
+        {
+            "title": "The Tale of Peter Rabbit",
+            "price_in_pence": 539,
+            "quantity_in_stock": 1000,
+            "release_date": "1902-10-01T00:00:00.000Z",
+            "is_fiction": true,
+            "author_id": 7,
+            "book_id": 3
+        },
+        {
+            "title": "Emma",
+            "price_in_pence": 470,
+            "quantity_in_stock": 390,
+            "release_date": "1815-12-23T00:01:15.000Z",
+            "is_fiction": true,
+            "author_id": 14,
+            "book_id": 4
+        },
+        {
+            "title": "Nineteen Eighty-Four: A Novel",
+            "price_in_pence": 719,
+            "quantity_in_stock": 420,
+            "release_date": "1949-06-07T23:00:00.000Z",
+            "is_fiction": true,
+            "author_id": 13,
+            "book_id": 5
+        },
+        {
+            "title": "The Handmaid's Tale",
+            "price_in_pence": 899,
+            "quantity_in_stock": 10,
+            "release_date": "1985-07-31T23:00:00.000Z",
+            "is_fiction": true,
+            "author_id": 15,
+            "book_id": 6
+        }
+    ]
+}
